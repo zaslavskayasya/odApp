@@ -1,0 +1,23 @@
+{
+  "name": "od",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "angular-google-maps": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaslavskayasya/odApp.git"
+  },
+  "author": "asya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaslavskayasya/odApp/issues"
+  },
+  "homepage": "https://github.com/zaslavskayasya/odApp#readme",
+  "description": ""
+}
